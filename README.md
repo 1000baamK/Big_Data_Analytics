@@ -1,2 +1,6 @@
 # T-Test_R
-빅데이터를 이용한 분석 및 시각화
+
+#### 데이터 수집
+- https://www.opinet.co.kr
+- https://www.data.go.kr
+- https://www.kaggle.com
